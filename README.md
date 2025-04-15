@@ -1,2 +1,2 @@
 # maratona
-maratona AEDS
+Maratona AEDS
